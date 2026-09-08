@@ -11,7 +11,7 @@
  */
 
 // 백엔드 Express 서버가 열려 있는 기본 주소입니다.
-const BASE_URL = "http://localhost:4000";
+const BASE_URL = "https://one-banking-finaleo.onrender.com";
 
 // ====================================================================
 // [1. 오프라인 대비용 가짜 데이터(Mock Data) 원본 저장소]
